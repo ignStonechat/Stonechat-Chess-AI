@@ -1,3 +1,5 @@
 # Stonechat Chess AI
 
-very fucking incomplete, making the actual chess engine (which is missing castling) burnt me out
+## CURRENTLY ONLY A CHESS ENGINE (with some gui stuff)
+
+very incomplete, making the actual chess engine (which is missing castling) burnt me out
